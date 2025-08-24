@@ -9,7 +9,7 @@
 - Herramientas: Git, Docker, Linux
 
 ### 📂 Proyectos destacados:
-- [Mi portafolio](https://github.com/usuario/mi-portafolio)
-- [App de Tareas con React](https://github.com/usuario/todo-app)
+- [Mi portafolio](https://github.com/Alexds30/mi-portafolio)
+- [Pagina web](https://arquidea.wuaze.com/public/)
 
 📫 Contacto: **mijaelalexisds@gmail.com**
