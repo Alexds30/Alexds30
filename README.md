@@ -1,4 +1,4 @@
-# Hola, soy Pierina 👋  
+# Hola, soy Alexis 👋  
 
 💻 Desarrollador web apasionado por crear experiencias digitales accesibles y modernas.  
 
