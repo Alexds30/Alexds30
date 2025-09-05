@@ -1,4 +1,4 @@
-# Hola, soy Alexis 👋  
+# Hola, soy Mijael 👋  
 
 💻 Desarrollador web apasionado por crear experiencias digitales accesibles y modernas.  
 
